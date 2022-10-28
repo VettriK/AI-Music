@@ -1,0 +1,33 @@
+.header{
+    font-size: 25px;
+    margin: 0;
+    width: 100%
+}
+.note{
+    font-size: 20px;
+    color:black
+}
+#speed{
+    font-size: 20px;
+}
+.speedDiv{
+    float: left;
+}
+.imageDisk{
+    width: 300px;
+    border-radius: 100px;
+}
+.play{
+    font-size: 20px;
+    width: 70px;
+}
+canvas{
+    border: 10px dotted blue;
+    border-radius: 30px;
+}
+#volume{
+    font-size: 20px;
+}
+.volumeDiv{
+    float: right;
+}
